@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VERYUNLUCKBOY</name>
+    </assembly>
+    <members>
+        <member name="T:VERYUNLUCKBOY.Controllers.CoursesController">
+            <summary>
+            Get list of courses
+            </summary>
+        </member>
+        <member name="M:VERYUNLUCKBOY.Controllers.CoursesController.GetCourses">
+            <summary>
+            get list of courses
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:VERYUNLUCKBOY.Controllers.CoursesController.GetCoursesByName(System.String)">
+            <summary>
+            Get list of courses by name
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+    </members>
+</doc>
